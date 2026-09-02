@@ -3,20 +3,8 @@
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="shamila@github:~$ whoami" width="820" />
+  <img src="./assets/neofetch.svg" alt="neofetch — Shamila Hasaranga, Full-Stack Developer, Sri Lanka" width="1000" />
 </div>
-
-```console
-shamila@github:~$ whoami
-```
-```yaml
-user:      Shamila Hasaranga
-role:      Full-Stack Developer  (TypeScript · React · Node.js)
-location:  Sri Lanka
-status:    teenager, endlessly curious, building things that solve real problems
-learning:  LLM engineering · RAG systems · knowledge graphs
-uptime:    coding since I could reach the keyboard
-```
 
 ---
 
